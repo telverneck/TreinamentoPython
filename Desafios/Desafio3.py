@@ -1,0 +1,1 @@
+# Crie um script para recever a data de nascimento de uma pessoa e imprimir no formato "Você nasceu em {dia}/{mes}/{ano}".
